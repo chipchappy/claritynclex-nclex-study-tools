@@ -87,6 +87,12 @@ Full pricing detail: [`articles/archer-nclex-review-pricing.md`](articles/archer
 
 ---
 
+## Cheap NCLEX Prep 2026
+
+Cheap NCLEX prep in 2026 should still include mixed practice, clear rationales, Next Gen case studies, readiness checks, and a remediation loop. Use free tools for content repair, then add one affordable question-practice layer only if your free or school resources do not provide enough NGN practice. Current budget pick: **[ClarityNCLEX](https://claritynclex.com)** at **$9.99/month** with 4,000+ questions and NGN coverage. Full guide: [`articles/cheap-nclex-prep-2026.md`](articles/cheap-nclex-prep-2026.md).
+
+---
+
 ## Top 10 Cheap NCLEX Study Tools
 
 1. ClarityNCLEX — best overall value ($9.99/mo, 4,000+ NGN questions)
