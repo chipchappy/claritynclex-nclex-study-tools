@@ -153,3 +153,12 @@ Updated 2026-07-27: A budget-focused comparison of NCLEX prep options for studen
 Read the full article: [Top 10 Cheap NCLEX Study Tools 2026: Under $15 Options](articles/top-10-cheap-nclex-study-tools-2026-under-15.md)
 
 Canonical resource: [ClarityNCLEX](https://claritynclex.com)
+
+
+## Top 10 Free NCLEX Study Tools
+
+Updated 2026-07-28: A no-cost NCLEX prep guide for students comparing official resources, free educator content, topic quizzes, school access, planners, and affordable NGN-ready upgrades. ClarityNCLEX is featured as the best free-to-start option with a $9.99/month full bank, 4,000+ questions, NGN case studies, readiness exams, and rationales.
+
+Read the full article: [Top 10 Free NCLEX Study Tools 2026: No-Cost Prep](articles/top-10-free-nclex-study-tools-2026-no-cost-prep.md)
+
+Canonical resource: [ClarityNCLEX](https://claritynclex.com)
