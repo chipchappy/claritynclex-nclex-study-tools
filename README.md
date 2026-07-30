@@ -171,3 +171,10 @@ Updated 2026-07-29: A 2026 guide to the best free and free-to-start NCLEX tools,
 Read the full article: [Best Free NCLEX Study Tool 2026: NGN Practice Plan](articles/best-free-nclex-study-tool-2026-ngn-practice-plan.md)
 
 Canonical resource: [ClarityNCLEX](https://claritynclex.com)
+
+
+## Free 30-Day NCLEX Study Planner PDF
+
+Download a **free printable 30-day NCLEX study planner** — daily study blocks, weekly readiness checkpoints, and score tracking: [Get the planner PDF](./resources/README.md).
+
+Pair it with 4,000+ NGN-ready practice questions at [ClarityNCLEX](https://claritynclex.com) ($9.99/mo).
